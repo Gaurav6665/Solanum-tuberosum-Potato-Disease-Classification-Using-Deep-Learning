@@ -1,9 +1,6 @@
 <<<<<<< HEAD
-# Solanum-tuberosum-Potato-Disease-Classification-Using-Deep-Learning
 Solanum tuberosum(Potato) Disease Classification Using Deep Learning
 =======
-# Potato Disease Classification
-
 ## Setup for Python:
 
 1. Install Python ([Setup instructions](https://wiki.python.org/moin/BeginnersGuide))
