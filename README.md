@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Solanum tuberosum(Potato) Disease Classification Using Deep Learning
 =======
 ## Setup for Python:
